@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App i Async", "App i Async\App i Async.csproj", "{A71A2118-6C21-4D37-8336-17507471FB3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5162AFB-7CBE-4E80-A2F3-BF3B68E1A87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|ARM.Build.0 = Debug|ARM
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|x64.ActiveCfg = Debug|x64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|x64.Build.0 = Debug|x64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|x64.Deploy.0 = Debug|x64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|x86.ActiveCfg = Debug|x86
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|x86.Build.0 = Debug|x86
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Debug|x86.Deploy.0 = Debug|x86
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|ARM.ActiveCfg = Release|ARM
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|ARM.Build.0 = Release|ARM
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|ARM.Deploy.0 = Release|ARM
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|ARM64.Build.0 = Release|ARM64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|ARM64.Deploy.0 = Release|ARM64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|x64.ActiveCfg = Release|x64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|x64.Build.0 = Release|x64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|x64.Deploy.0 = Release|x64
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|x86.ActiveCfg = Release|x86
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|x86.Build.0 = Release|x86
+		{A71A2118-6C21-4D37-8336-17507471FB3D}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36089850-9C42-4A20-8C68-A3470467E729}
+	EndGlobalSection
+EndGlobal
